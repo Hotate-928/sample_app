@@ -59,12 +59,8 @@ GEM
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
     ansi (1.5.0)
-<<<<<<< HEAD
-    bcrypt (3.1.13)
-=======
     autoprefixer-rails (10.0.2.0)
-      execjs
->>>>>>> filling-in-layout
+    bcrypt (3.1.13)
     bindex (0.8.1)
     bootsnap (1.4.5)
       msgpack (~> 1.0)
@@ -87,7 +83,6 @@ GEM
     concurrent-ruby (1.1.7)
     crass (1.0.6)
     erubi (1.9.0)
-    execjs (2.7.0)
     ffi (1.13.1)
     formatador (0.2.5)
     globalid (0.4.2)
